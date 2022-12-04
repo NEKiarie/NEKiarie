@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elvis Njiiri
-- 👀 I’m working on mastering Javascript, React, Ruby and Rails
-- 🌱 Currently learning and Ruby and Rails
+- 👀 My interests currently are on mastering Javascript, React, Ruby and Rails
+- 🌱 Currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on Full-Stack Web Projects
 - 📫 Reach me via email: kiariewanjiiri4700@gmail.com.
 
