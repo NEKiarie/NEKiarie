@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elvis Njiiri
 - 👀 I’m interested in React, Ruby on Rails
 - 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on Full-Stack Projects
+- 💞️ I’m looking to collaborate on Full-Stack Web Projects
 - 📫 How to reach me via email: Kiariewanjiiri4700@gmail.com
 
 <!---
