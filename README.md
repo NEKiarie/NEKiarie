@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Elvis Njiiri
-- 👀 My interests currently are on mastering React[NextJs],TypeScript,Tailwind Css
-- I'm currently working on my portfolio.
+- 👀 My interests currently are on mastering React[NextJs],TypeScript.
 - 💞️ I’m looking to collaborate on Full-Stack Web Projects
 - 📫 Reach me via my personal website: https://me-portfolio-dun.vercel.app
-<!---
-NEKiarie/NEKiarie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
