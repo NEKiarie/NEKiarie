@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elvis Njiiri
 - 👀 My interests currently are on mastering ReactJs,NextJs,TypeScript,Tailwind.
 - 💞️ I’m looking to collaborate on Full-Stack Web Projects
-- 📫 Reach me via my personal website: https://my-portfolio-peach-rho.vercel.app/
+- 📫 Reach me via my personal website:https://my-portfolio-nekiarie.vercel.app/
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
